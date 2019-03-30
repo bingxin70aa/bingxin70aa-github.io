@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 数字图像处理期末作品
-categories: sample_reels
+categories: A-sample_reels
 description:  将课程所学化为己有
 keywords: PS,ps,数字,图像,处理,期末作品
 permalink: /posts/sample_reels/:title.html

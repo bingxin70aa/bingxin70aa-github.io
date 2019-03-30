@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 矢量图形设计期末作品
-categories: sample_reels
+categories: A-sample_reels
 description:  将课程所学化为己有
 keywords: ai,矢量,期末作品,设计
 permalink: /posts/sample_reels/:title.html
