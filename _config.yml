@@ -30,19 +30,19 @@ navs:
 
   -
     href: /posts/
-    label: 笔记
+    label: 笔记与作品集
 
   -
     href: /infovis/
-    label: 信息可视化作品集
+    label: 个人作品集
 
   -
     href: /porfolio/
-    label: 网页设计与制作作品集
+    label: 课程作品集
 
   -
     href: /about/
-    label: 关于
+    label: 关于我
 
 # ---------------- #
 #       RSS        #
