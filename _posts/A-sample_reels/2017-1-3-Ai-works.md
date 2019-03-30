@@ -12,11 +12,11 @@ permalink: /posts/sample_reels/:title.html
 ![image](https://upload-images.jianshu.io/upload_images/14204282-eb908b023641b3a2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image](https://upload-images.jianshu.io/upload_images/14204282-35cd04d88d5ac3fe.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 #### 平时作业：
-![image](https://upload-images.jianshu.io/upload_images/14204282-bf30d13bdf3c2c68.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)!
-[image](https://upload-images.jianshu.io/upload_images/14204282-fb97fcd28f885b90.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](https://upload-images.jianshu.io/upload_images/14204282-bf30d13bdf3c2c68.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](https://upload-images.jianshu.io/upload_images/14204282-fb97fcd28f885b90.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image](https://upload-images.jianshu.io/upload_images/14204282-1d91731df1d71876.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image](https://upload-images.jianshu.io/upload_images/14204282-50c6b774c7b0528a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-[image](https://upload-images.jianshu.io/upload_images/14204282-8aaef53c1990b52e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](https://upload-images.jianshu.io/upload_images/14204282-8aaef53c1990b52e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image](https://upload-images.jianshu.io/upload_images/14204282-72ec6e363f6f2599.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image](https://upload-images.jianshu.io/upload_images/14204282-89e0f9f55c438b72.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image](https://upload-images.jianshu.io/upload_images/14204282-3f11dd87db5ec950.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
