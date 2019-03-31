@@ -23,8 +23,6 @@ permalink: /posts/sample_reels/:title.html
 
 - [娃娃机小视频](https://v.youku.com/v_show/id_XNDExODg5NjMyNA==.html?spm=a2h3j.8428770.3416059.1)
 
-娃娃机小视频：<iframe height="498" width="510" src="http://player.youku.com/embed/XNDExODg5NjMyNA==" frameborder="0" allowfullscreen></iframe>
-
 
 部分截图请欣赏：
 ![全景](https://upload-images.jianshu.io/upload_images/14204282-848e642b15d8d98d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
