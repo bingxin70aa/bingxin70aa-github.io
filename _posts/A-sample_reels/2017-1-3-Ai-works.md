@@ -7,6 +7,8 @@ keywords: ai,矢量,期末作品,设计
 permalink: /posts/sample_reels/:title.html
 ---  
 ## 矢量图形设计期末作品
+##### 授课老师：杨正昱老师
+
 > 发挥想象力！
 #### 期末作业：
 ![image](https://upload-images.jianshu.io/upload_images/14204282-eb908b023641b3a2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

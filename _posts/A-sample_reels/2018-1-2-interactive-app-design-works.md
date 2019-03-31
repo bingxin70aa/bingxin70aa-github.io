@@ -7,6 +7,8 @@ keywords: 互动,应用,技术,html,axure,apk,icon,期末作品
 permalink: /posts/sample_reels/:title.html
 ---  
 ## 互动应用与技术期末作品
+##### 授课老师：胡美香老师
+
 > 这一个复杂又丰富的课程，期间有众多的尝试和探索，涉及面向非常广，例如：HTML、Axure、Dr、微信小程序、icon设计、Hbuilder......也非常感谢胡梅香老师的辛勤栽培，成品如下：
 
 ##### 酒水app的icon设计：
