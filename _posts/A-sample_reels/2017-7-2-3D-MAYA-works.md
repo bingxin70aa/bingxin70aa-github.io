@@ -22,7 +22,8 @@ permalink: /posts/sample_reels/:title.html
 - [成品链接](https://sketchfab.com/3d-models/bingxin70aaroom-7a474f2672a044eaaa8e0024b95717c2)➡️不打开会后悔！一定要点开看！
 
 - [娃娃机小视频](https://v.youku.com/v_show/id_XNDExODg5NjMyNA==.html?spm=a2h3j.8428770.3416059.1)
-娃娃机小视频:<iframe height=498 width=510 src='http://player.youku.com/embed/XNDExODg5NjMyNA==' frameborder=0 'allowfullscreen'></iframe>
+
+娃娃机小视频：<iframe height=498 width=510 src='http://player.youku.com/embed/XNDExODg5NjMyNA==' frameborder=0 'allowfullscreen'></iframe>
 
 
 部分截图请欣赏：
