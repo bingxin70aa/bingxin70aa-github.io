@@ -7,6 +7,7 @@ keywords: 网络,广告,营销,H5,期末作品
 permalink: /posts/sample_reels/:title.html
 ---  
 ## 网络广告营销期末作品
+##### 授课老师：罗娟
 > 通过H5为主短视频为辅的营销方式，为当当网新年进行营销规划，在本作品中主要负责短视频的拍摄与剪辑工作。
 
 - [短视频1——邋遢](https://v.youku.com/v_show/id_XNDExOTM5NzEyMA==.html?spm=a2h0j.11185381.listitem_page1.5~A)
