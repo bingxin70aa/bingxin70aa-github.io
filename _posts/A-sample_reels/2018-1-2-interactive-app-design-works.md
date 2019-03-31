@@ -12,11 +12,13 @@ permalink: /posts/sample_reels/:title.html
 ##### 酒水app的icon设计：
 - [成品](https://bingxin70aa.github.io/icon9add_homework_day5/)
 - [源文件](https://github.com/bingxin70aa/icon9add_homework_day5)
+
 ![image](https://upload-images.jianshu.io/upload_images/14204282-60e5bf8598bf5514.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ##### 酒水app高保真原型：
 - [成品](https://bingxin70aa.github.io/-APP/)
 - [源文件](https://github.com/bingxin70aa/-APP)
+
 ![image](https://upload-images.jianshu.io/upload_images/14204282-ff44961b9c2d48a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ##### 酒水app之apk：
