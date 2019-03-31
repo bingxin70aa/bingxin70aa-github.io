@@ -7,6 +7,8 @@ keywords: 互动,应用,技术,html,axure,apk,icon,期末作品
 permalink: /posts/sample_reels/:title.html
 ---  
 # API、机器学习与人工智能期末作品
+##### 授课老师：廖汉腾教授
+
 > 历尽无数个白天黑夜，欣赏过多次日出日落后孕育出的idea，尽管有很多不足，但是这个探索和不断尝试的过程让我学到很多，也非常感谢我们的任课老师廖汉腾教授的指导和倾情付出。
 
 - [源文件](https://github.com/bingxin70aa/API_ML_AI)
