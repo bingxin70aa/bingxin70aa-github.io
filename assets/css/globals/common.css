@@ -157,7 +157,8 @@
     padding: 0px 10px 15px;
     margin-left: 1.25rem;
     font-size: 1.3rem;
-    color: #777
+    color: #777;
+    font-weight: bold
 }
 
 .site-footer:after,.site-footer:before {
