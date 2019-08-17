@@ -10,6 +10,7 @@ permalink: /posts/sample_reels/:title.html
 ##### 授课老师：吴雪老师
 
 > 吴雪老师从产品经理的角度出发，教会我们如何从构思到设计出一款app的过程。
+> 这是一款提高演讲能力的APP。它扮演着私人演讲教练的角色，可以帮助语言恐惧症患者或者不善表达者训练在公众面前演讲的能力。好的演讲与口才能力是练出来的！
 
 ##### 小组作品T-talk演讲app设计
 - [成品](https://lujiayan.gitee.io/app_axure)
