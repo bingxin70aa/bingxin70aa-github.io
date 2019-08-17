@@ -11,4 +11,4 @@ permalink: /posts/sample_reels/:title.html
 
 > 
 ![image](/images/work/copywriting-award.png)
-![image](/images/work/copywriting-award-conten.png)
+![image](/images/work/copywriting-award-content.png)
