@@ -10,11 +10,11 @@ permalink: /posts/sample_reels/:title.html
 ##### 授课老师：罗娟
 > 通过H5为主短视频为辅的营销方式，为当当网新年进行营销规划，在本作品中主要负责短视频的拍摄与剪辑工作。
 
-- [短视频1——邋遢](https://v.youku.com/v_show/id_XNDExOTM5NzEyMA==.html?spm=a2h0j.11185381.listitem_page1.5~A)
+- [短视频1——邋遢](/images/work/network-advertising-marketing-works-code1.png)
 
-- [短视频2——慵懒](https://v.youku.com/v_show/id_XNDExOTQwMjA2OA==.html?spm=a2h3j.8428770.3416059.1)
+- [短视频2——慵懒](/images/work/network-advertising-marketing-works-code2.png)
 
-- [短视频3——当当当](https://v.youku.com/v_show/id_XNDExOTQwNjU0MA==.html?spm=a2h3j.8428770.3416059.1)
+- [短视频3——当当当](/images/work/network-advertising-marketing-works-code3.png)
 
 
 ![image](https://upload-images.jianshu.io/upload_images/14204282-1cb88cb36390c62d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
