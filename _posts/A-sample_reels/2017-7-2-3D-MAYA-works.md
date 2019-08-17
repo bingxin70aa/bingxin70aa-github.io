@@ -27,6 +27,6 @@ permalink: /posts/sample_reels/:title.html
 
 
 部分截图请欣赏：
-![全景](https://upload-images.jianshu.io/upload_images/14204282-848e642b15d8d98d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![木马和娃娃机](https://upload-images.jianshu.io/upload_images/14204282-f0e63f7233a046c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![小木屋时钟](https://upload-images.jianshu.io/upload_images/14204282-a2263da80b565d82.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![全景](/images/work/3d-maya-home1.png)
+![木马和娃娃机](/images/work/3d-maya-home2.png)
+![小木屋时钟](/images/work/3d-maya-home-clock.png)
