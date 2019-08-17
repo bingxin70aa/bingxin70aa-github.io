@@ -14,4 +14,4 @@ permalink: /posts/sample_reels/:title.html
 - **[成品链接](https://bingxin70aa.github.io/sleek/)**
 
 PS：该作品于台湾编辑制作，因此页面内某些内容会需要翻墙才能显示。
-![image](https://upload-images.jianshu.io/upload_images/14204282-493be6873f9b36f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](/images/work/news-gathering-web.png)
