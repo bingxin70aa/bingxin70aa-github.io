@@ -10,9 +10,10 @@ permalink: /posts/sample_reels/:title.html
 ##### 授课老师：杨正昱老师
 
 > 发挥想象力！
+
 #### 期末作业：
-![image](https://upload-images.jianshu.io/upload_images/14204282-eb908b023641b3a2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![image](https://upload-images.jianshu.io/upload_images/14204282-35cd04d88d5ac3fe.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](/images/work/ai-1.png)
+![image](/images/work/ai-2.png)
 #### 平时作业：
 ![image](https://upload-images.jianshu.io/upload_images/14204282-bf30d13bdf3c2c68.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![image](https://upload-images.jianshu.io/upload_images/14204282-fb97fcd28f885b90.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
