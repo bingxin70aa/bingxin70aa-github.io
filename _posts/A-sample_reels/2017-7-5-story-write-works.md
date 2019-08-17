@@ -58,13 +58,13 @@ permalink: /posts/sample_reels/:title.html
 
 ▶	補充細節：
 
- ![image](https://upload-images.jianshu.io/upload_images/14204282-d3b7d270872acf38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- ![image](https://upload-images.jianshu.io/upload_images/14204282-452ff15de3586996.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ ![image](/images/work/story-write-works-detail1.png)
+ ![image](/images/work/story-write-works-detail2.png)
   
 
 ▶	解密無知：
 
- ![image](https://upload-images.jianshu.io/upload_images/14204282-231e4e5f8acde3ab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ ![image](/images/work/story-write-works-detail3.png)
 
 
 
