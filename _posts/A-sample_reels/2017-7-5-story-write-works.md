@@ -29,12 +29,12 @@ permalink: /posts/sample_reels/:title.html
 
 ▶	角色介紹：
 
- ![image](https://upload-images.jianshu.io/upload_images/14204282-7e68c55af28af05d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- ![image](https://upload-images.jianshu.io/upload_images/14204282-b54f59e3e7e7dfdf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- ![image](https://upload-images.jianshu.io/upload_images/14204282-6f36c0b54fc5aeff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- ![image](https://upload-images.jianshu.io/upload_images/14204282-d7d1e68bc3cc45f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- ![image](https://upload-images.jianshu.io/upload_images/14204282-7026c8fca34fb977.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- ![image](https://upload-images.jianshu.io/upload_images/14204282-b035c465f4d23740.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ ![image](/images/work/story-write-works-role1.png)
+ ![image](/images/work/story-write-works-role2.png)
+ ![image](/images/work/story-write-works-role3.png)
+ ![image](/images/work/story-write-works-role4.png)
+ ![image](/images/work/story-write-works-role5.png)
+ ![image](/images/work/story-write-works-role6.png)
  
  
 
