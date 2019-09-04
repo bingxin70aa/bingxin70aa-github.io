@@ -22,10 +22,10 @@ permalink: /posts/sample_reels/:title.html
  巻き戻せないストーリー
  
  
- ![image](image/work/lihong1.jpg)
- ![image](image/work/lihong2.jpg)
- ![image](image/work/lihong3.jpg)
- ![image](image/work/lihong4.jpg)
+ ![image](images/work/lihong1.jpg)
+ ![image](images/work/lihong2.jpg)
+ ![image](images/work/lihong3.jpg)
+ ![image](images/work/lihong4.jpg)
  
  
  
